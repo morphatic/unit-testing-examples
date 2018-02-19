@@ -1,0 +1,15 @@
+{
+  "name": "sums",
+  "version": "1.0.0",
+  "description": "An example library to demonstrate simple tests",
+  "main": "sum.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

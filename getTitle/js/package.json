@@ -1,0 +1,18 @@
+{
+  "name": "get-title",
+  "version": "1.0.0",
+  "description": "Gets the title of an HTML page given the URL",
+  "main": "get-title.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.2.1"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
